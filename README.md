@@ -1,5 +1,6 @@
 # Letterboxd-watchlist-scraper
 A simple Python program that can scrape movies/shows from one's Letterboxd watchlist.
+The output CSV contains information about the film title and personal rating.
 
 ## USAGE:
   - Run `pip install -r requirements.txt` to install all modules.
